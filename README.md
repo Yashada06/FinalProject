@@ -1,4 +1,4 @@
-# FinalProject
+# YouTube Trending Video Analytics
 
 1: YouTube Trending Video Analytics
 
